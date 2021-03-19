@@ -1,1 +1,3 @@
 # spambot_ig
+![start and run](img/miniatura.png)
+Turning on modules...
