@@ -1,8 +1,6 @@
 '''
-    Description:
-    Send messages from python to instagram.
-
-    Author: AlejandroV
+    Description: Send messages from python to instagram.
+    Author: aulerjbailey
     Video: https://youtu.be/P23eUMc6vEE
 '''
 import pyautogui
